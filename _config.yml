@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nondv.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: Nondv
+future: true
 
 
 header_title: 'Очередной ненужный блог'
