@@ -1,9 +1,8 @@
 ---
 
-title:  'Использование Git flow и Semver при разработке гемов'
+title:  'Применение git-flow + Semantic Versioning при разработке гемов'
 categories: development
 ---
-# Использование Git flow и Semantic Versionning при разработке гемов
 
 ### Несколько ссылок
 
