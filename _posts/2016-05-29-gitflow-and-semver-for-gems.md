@@ -2,6 +2,8 @@
 
 title:  'Применение git-flow + Semantic Versioning при разработке гемов'
 categories: development
+tags: [ruby, gem, git, semver, semantic versionning]
+
 ---
 
 ### Зачем?

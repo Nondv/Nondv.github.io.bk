@@ -1,7 +1,8 @@
 ---
 
 title:  'Вызов изначальной версии метода при переопределении'
-categories:
+categories: development
+tags: [ruby, hacks, method, alias, overriding]
 ---
 
 ### Проблема
