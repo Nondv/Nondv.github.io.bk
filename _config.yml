@@ -26,6 +26,7 @@ defaults:
     values:
       layout: "post"
       author: "Дмитрий Нон"
+      excerpt_separator: '<!--more-->'
 
 gems:
   - jekyll-feed
