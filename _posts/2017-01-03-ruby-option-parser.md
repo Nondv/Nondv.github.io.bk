@@ -5,7 +5,7 @@ categories: development
 tags: [ruby, console, cli, notes]
 ---
 
-# Intro
+## Intro
 
 Пару месяцев назад узнал, что в стандартной библиотеке Ruby есть
 класс `OptionParser`, позволяющий обрабатывать `ARGV` на предмет
@@ -13,7 +13,7 @@ tags: [ruby, console, cli, notes]
 
 <!--more-->
 
-# Доки
+## Доки
 
 [Вот](http://ruby-doc.org/stdlib-2.4.0/libdoc/optparse/rdoc/OptionParser.html).
 
@@ -24,7 +24,7 @@ $ /usr/bin/ruby -v
 ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]
 ```
 
-# Заметки
+## Заметки
 
 Вот кусок кода из моего скрипта `cal` (выкинул на [гитхаб](https://github.com/Nondv/cal)):
 
